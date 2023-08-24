@@ -1,5 +1,3 @@
-Selecting the Right Tools for Your Fraud Prevention Needs
-===========================================================================================================================
 
 AI technology is transforming the field of fraud prevention, providing businesses with advanced tools to detect and prevent fraudulent activities. In this chapter, we will explore how to select the right tools for your specific fraud prevention needs.
 

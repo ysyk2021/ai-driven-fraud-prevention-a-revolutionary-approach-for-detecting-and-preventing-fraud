@@ -1,5 +1,3 @@
-Chapter 5: Improving Fraud Management with AI
-=============================================
 
 Fraud management is a critical business process that requires quick and accurate decision-making. In this chapter, we will explore how AI technology can improve fraud management by providing AI-driven incident response and crisis management, as well as personalized recovery recommendations and interventions.
 

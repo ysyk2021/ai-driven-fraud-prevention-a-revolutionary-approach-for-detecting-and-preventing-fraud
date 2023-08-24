@@ -1,4 +1,3 @@
-# Introduction
 
 Fraud is a growing problem that affects organizations across all industries and sectors. According to a report by the Association of Certified Fraud Examiners, businesses lose an estimated 5% of their annual revenues to fraud, with losses totaling in the trillions of dollars globally.
 

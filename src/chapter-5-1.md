@@ -1,5 +1,3 @@
-AI-Driven Incident Response and Crisis Management
-================================================================================================
 
 Fraud incidents can occur at any time, and businesses must be prepared to respond quickly and effectively. In this chapter, we will explore how AI technology can improve fraud management by providing AI-driven incident response and crisis management.
 

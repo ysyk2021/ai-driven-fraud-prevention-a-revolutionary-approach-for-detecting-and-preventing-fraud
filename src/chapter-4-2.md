@@ -1,5 +1,3 @@
-Automated Fraud Alert and Reporting using AI
-=========================================================================================
 
 Fraud analysis is a critical component of fraud prevention, but it can be time-consuming and resource-intensive. In this chapter, we will explore how AI technology can enhance fraud analysis by providing automated fraud alert and reporting.
 

@@ -1,5 +1,3 @@
-Unlocking New Opportunities with AI
-==============================================================================================================
 
 In this chapter, we will explore some of the new opportunities that AI can unlock in fraud prevention. From enhancing existing processes to creating entirely new solutions, AI has the potential to transform the way organizations approach fraud prevention.
 

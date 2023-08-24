@@ -1,5 +1,3 @@
-Chapter 6: Managing Ethics and Bias in AI-Driven Fraud Prevention
-=================================================================
 
 Fraud prevention is a critical business process that must be conducted with ethics and integrity. However, the use of AI technology in fraud prevention can pose ethical and social risks, including the potential for bias and discrimination. In this chapter, we will explore how businesses can manage ethics and bias in AI-driven fraud prevention.
 

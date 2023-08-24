@@ -1,5 +1,3 @@
-Personalized Recovery Recommendations and Interventions using AI
-===============================================================================================================
 
 Fraud management is a complex process that requires quick and accurate decision-making. In this chapter, we will explore how AI technology can improve fraud management by providing personalized recovery recommendations and interventions.
 

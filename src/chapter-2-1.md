@@ -1,5 +1,3 @@
-Overview of Available Tools and Technologies
-==============================================================================================================
 
 AI technology is revolutionizing the field of fraud prevention, providing businesses with advanced tools to detect and prevent fraudulent activities. In this chapter, we will explore the various tools and technologies available for AI-driven fraud prevention.
 

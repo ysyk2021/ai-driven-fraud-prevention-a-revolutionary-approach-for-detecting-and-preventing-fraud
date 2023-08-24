@@ -1,5 +1,3 @@
-AI-Powered Data Analysis and Pattern Recognition
-=============================================================================================
 
 Fraud analysis is a crucial task for businesses, requiring quick and accurate decision-making. In this chapter, we will explore how AI technology can enhance fraud analysis by providing AI-powered data analysis and pattern recognition.
 
