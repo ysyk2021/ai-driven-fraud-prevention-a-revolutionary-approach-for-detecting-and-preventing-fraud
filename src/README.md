@@ -10,3 +10,7 @@ The following chapters will cover a range of topics related to AI-driven fraud p
 Whether you are a risk manager, fraud investigator, or business owner, "AI-Driven Fraud Prevention" provides valuable insights and practical strategies for leveraging AI to enhance your fraud prevention strategies. By the end of this book, you will have a deep understanding of the role of AI in fraud prevention and how it can be used to drive better business outcomes.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
