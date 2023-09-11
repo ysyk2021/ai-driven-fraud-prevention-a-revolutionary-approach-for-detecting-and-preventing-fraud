@@ -1,5 +1,4 @@
-Chapter: AI-driven Incident Response and Crisis Management
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
